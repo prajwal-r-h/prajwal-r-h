@@ -7,7 +7,9 @@
 <h1 align="center">Hi👋, I'm Prajwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" height="265" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc3N2l1MjJ2ZW52MXBuNmt5YXp5MmthbmhrNjhrdnlwYmx5dDB4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<!--<img align="right" alt="Coding" height="265" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGc3N2l1MjJ2ZW52MXBuNmt5YXp5MmthbmhrNjhrdnlwYmx5dDB4NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">-->
+<img align="right" alt="coding" width="400" src= "https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
+
 
 
 
