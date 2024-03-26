@@ -19,7 +19,8 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal-r-h&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal-r-h" /> </p>-->
 
-- 🔭 I’m currently working on **Front-End-Development**
+<!--- 🔭 I’m currently working on **Front-End-Development**-->
+- 🌱 I’m currently learning **Web Devlopment**
 
 - 🔭 2024 Goal : **Full Stack Web Developer**
 
